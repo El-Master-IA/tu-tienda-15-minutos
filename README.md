@@ -21,7 +21,7 @@ Gratis y de código abierto. Un solo prompt lo instala todo: lo copias, lo pegas
 
 ```
 Quiero montar la página de venta de mi producto en Shopify con el kit "Tu tienda online en 15 minutos":
-https://github.com/La-Boveda-del-Master/tu-tienda-15-minutos
+https://github.com/El-Master-IA/tu-tienda-15-minutos
 
 Hazlo todo tú, paso a paso, y pregúntame solo lo necesario. Háblame en español y en palabras simples.
 
@@ -139,4 +139,4 @@ corridas/         aquí queda cada página que hagas (no se sube a git)
 
 ---
 
-Hecho con Claude Code por **El Master IA · Alexander Cast**. Parte de la Bóveda del Master. Licencia MIT: úsalo, modifícalo y compártelo.
+Hecho con Claude Code por **El Master IA · Alexander Cast**. Parte del [laboratorio de El Máster IA](https://www.elmasteria.com/lab). Licencia MIT: úsalo, modifícalo y compártelo.
